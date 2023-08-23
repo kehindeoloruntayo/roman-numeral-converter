@@ -38,12 +38,3 @@ function intToRoman(num) {
 
   return roman;
 }
-
-// UI Logic
-// $(document).ready(function() {
-//   $("#convertBtn").click(function() {
-//       let inputNumber = $("#inputNumber").val();
-//       let romanNumeral = intToRoman(inputNumber);
-//       $("#result").text(romanNumeral);
-//   });
-// });
